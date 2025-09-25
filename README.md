@@ -1,9 +1,21 @@
-## Dataset
+# Flexi_demo
 
-To run the demo, you need to download the `data/` folder (contains example scenes and 25-view hyperspectral data).  
-Please download it from the following link and place it under the project root directory:
+## Overview
+This repository provides a demo implementation of the proposed hyperspectral light-field reconstruction framework.  
+It includes:
+- A simplified pipeline for testing,
+- An example dataset (25-view hyperspectral data of one scene),
+- Sample input and output results.
 
-👉 [Google Drive Link](https://drive.google.com/your-link-here)
+This demo allows reviewers to reproduce the workflow and verify the feasibility of our method.  
+The complete dataset and full codebase will be released after acceptance.
 
-After downloading, the project structure should look like this:
+---
 
+## Installation
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/lishiqiao/Flexi_demo.git
+cd Flexi_demo
+pip install -r requirements.txt
