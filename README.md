@@ -20,6 +20,11 @@ git clone https://github.com/lishiqiao/Flexi_demo.git
 cd Flexi_demo
 pip install -r requirements.txt
 
+Dataset
+
+To run the demo, please download the data/ folder from the following Google Drive link and place it under the project root directory:
+https://drive.google.com/drive/folders/15bdm__k6pzH18y-VnNB9X6QTfNbZETrT
+After downloading, the project directory should look like this:
 
 Flexi_demo/
 ├── architecture/
@@ -34,5 +39,21 @@ Flexi_demo/
 ├── output_channels.png
 └── requirements.txt
 
+Running the Demo
 
+After downloading the dataset, run the demo with:
 python test.py
+
+Example Results
+
+Input (rendered RGB):
+
+<img src="input_rendered_rgb.png" width="400">
+
+Output (rendered RGB):
+
+<img src="output_rendered_rgb.png" width="400">
+
+Output (spectral channels):
+
+<img src="output_channels.png" width="400">
