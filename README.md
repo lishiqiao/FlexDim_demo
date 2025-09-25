@@ -1,4 +1,4 @@
-# Flexi_demo
+# FlexDim_demo
 
 ## Overview
 This repository provides a demo implementation of the proposed hyperspectral light-field reconstruction framework.  
