@@ -19,3 +19,20 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/lishiqiao/Flexi_demo.git
 cd Flexi_demo
 pip install -r requirements.txt
+
+
+Flexi_demo/
+├── architecture/
+├── check_point/
+├── data/                # downloaded dataset
+├── hsi_dataset_25.py
+├── model_0611.py
+├── test.py
+├── utils.py
+├── input_rendered_rgb.png
+├── output_rendered_rgb.png
+├── output_channels.png
+└── requirements.txt
+
+
+python test.py
