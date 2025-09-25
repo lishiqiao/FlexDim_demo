@@ -69,6 +69,9 @@ What `test.py` does (typical behavior of the demo script):
 ## Example Results
 
 
+**Input (rendered RGB):**
+
+<img src="input_rendered_rgb.png" width="480">
 
 **Output (reconstructed RGB):**
 
