@@ -1,5 +1,5 @@
 
-# FlexDim_demo
+# FlexiDim_demo
 
 ## Overview
 This repository provides a demo implementation of our proposed hyperspectral light-field reconstruction framework.  
@@ -17,8 +17,8 @@ This demo is provided to allow reviewers to reproduce the basic workflow and ver
 Clone the repository and install the required Python dependencies:
 
 ```bash
-git clone https://github.com/lishiqiao/FlexDim_demo.git
-cd FlexDim_demo
+git clone https://github.com/lishiqiao/FlexiDim_demo.git
+cd FlexiDim_demo
 pip install -r requirements.txt
 ```
 
